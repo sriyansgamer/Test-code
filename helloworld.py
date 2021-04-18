@@ -1,0 +1,1 @@
+print("Hello world! Just testing if VSC can run Py code in the Integrated Terminal. It looks like it is able to.")
