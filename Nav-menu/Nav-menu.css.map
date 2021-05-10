@@ -1,10 +1,1 @@
-{
-    "version": 3,
-    "sourceRoot": "",
-    "sources": [
-        "Nav-menu.scss"
-    ],
-    "names": [],
-    "mappings": "AAAA;AACI;EACA;AACA;EACA;AACA;EACA;AACA;;;AAEJ;AACI;EACA;AACA;EACA;AACC;EACA;AACA;EACA;AACA;EACA;AACA;;;AAED;AACI;EACA;AACA;;;AAEJ;AACI;EACA;AACA;EACA;AACA",
-    "file": "Nav-menu.css"
-}
+{"version":3,"sourceRoot":"","sources":["Nav-menu.scss"],"names":[],"mappings":"AAAA;AACI;EACA;AACA;EACA;AACA;EACA;AACA;;;AAEJ;AACI;EACA;AACA;EACA;AACC;EACA;AACA;EACA;AACA;EACA;AACA;;;AAED;AACI;EACA;AACA;;;AAEJ;AACI;EACA;AACA;EACA;AACA","file":"Nav-menu.css"}

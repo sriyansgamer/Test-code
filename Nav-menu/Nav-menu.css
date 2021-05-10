@@ -22,7 +22,7 @@
   /*None.*/
 }
 
-vertical-menu a:hover {
+.vertical-menu a:hover {
   /*Menu buttons when hovered upon by mouse.*/
   background-color: #c47712;
   /*Red background color.*/
