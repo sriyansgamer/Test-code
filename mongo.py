@@ -1,7 +1,7 @@
 import datetime
 from wsgiref.simple_server import server_version
 import pymongo
-conn_str = "mongodb+srv://sriyansgamer:epicword@datawrite.a5zvh.mongodb.net/names?retryWrites=true&w=majority"
+conn_str = "uh oh conn_string exposed"
 client = pymongo.MongoClient(conn_str, serverSelectionTimeoutMS=5000)
 db = client.gettingStarted
 people = db.people
