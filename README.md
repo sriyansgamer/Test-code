@@ -8,4 +8,4 @@ If ur code/project has multiple files, create a folder and commit your files in 
 
 ### Why was this created in the first place?
 
-Well, I started programming and wanted to do Gh and Git stuff. This repo was created and so far I feel like I'm proficient at Git. I've had my fair share of fixin' commits and 1 problem. Hopefully it becomes popular, I'm not gonna force anything tho.
+Well, I started programming and wanted to do Gh and Git stuff. This repo was created and so far I feel like I'm proficient at Git. I've had my fair share of fixin' commits and 1 merge conflict, it was stressful and tedious. Hopefully it becomes popular, I'm not gonna force anything tho.
