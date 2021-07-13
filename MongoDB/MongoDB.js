@@ -1,9 +1,8 @@
-
+require('dotenv').config();
 const { MongoClient } = require('mongodb');
-const uri = "process.env.CONN_STR";
+const uri = process.env.JSGETTINGSTARTED;
 const client = new MongoClient(uri, { useNewUrlParser: true, useUnifiedTopology: true });
-client.connect(err => {
-    const collection = client.db("test").collection("devices");
+client.connect(() => {
     // perform actions on the collection object
     client.close();
 });
